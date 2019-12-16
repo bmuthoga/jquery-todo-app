@@ -1,8 +1,6 @@
 # jQuery Todo App
 This is a simple `server rendering` Todo App built with `NodeJS` and `jQuery`
 
-You can view the online version [here](https://codesandbox.io/s/github/bmuthoga/jquery-todo-app), or setup a local version
-
 Below is a preview of how it looks:
 
 <img src="https://i.ibb.co/NmxpnBy/jquery-todo-app.gif" width="300" height="200" alt="jquery-todo-app" />
